@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lecture4</string>
+    <string name="opened_drawer">Opened</string>
+    <string name="closed_drawer">Closed</string>
+</resources>
